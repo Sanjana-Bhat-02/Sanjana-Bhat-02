@@ -1,6 +1,9 @@
 # Hey, I'm Sanjana Bhat 😺
 
-and my love for art is as true as Oct 31 == Dec 25 👀
+and my love for art is as true as  <br> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=NaN+!%3D+NaN;Oct+31+%3D%3D+Dec+25+%F0%9F%91%80;null+%3D%3D+undefined;%2201%22+%3D%3D+1)](https://git.io/typing-svg)
+
+
 
 
 ## 🌱 I’m currently learning ...
@@ -20,18 +23,22 @@ and my love for art is as true as Oct 31 == Dec 25 👀
 ## 📫 Reach out to me ...
 <div>
   <a href="https://discordapp.com/users/843410531351396352">
-  <img src="https://raw.githubusercontent.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/main/assets/discord.svg" width="50px">
+  <img src="https://raw.githubusercontent.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/main/assets/discord.svg" width="45px">
   </a> &nbsp;&nbsp;&nbsp;
  <a href="https://www.instagram.com/sanjana_bhat02/">
-   <img src="https://raw.githubusercontent.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/main/assets/instagram.svg" width="50px">
+   <img src="https://raw.githubusercontent.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/main/assets/insta.svg" width="45px">
  </a> &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/sanjana_bhat016">
-   <img src="https://raw.githubusercontent.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/main/assets/twitter.svg" width="50px">
+   <img src="https://raw.githubusercontent.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/main/assets/twitter.svg" width="45px">
  </a> &nbsp;&nbsp;&nbsp;
   <a href="mailto:asanjanabbhat@gmail.com">
-   <img src="https://raw.githubusercontent.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/main/assets/gmail.svg" width="50px">
+   <img src="https://raw.githubusercontent.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/main/assets/gmail.svg" width="45px">
  </a>
 </div>
+<hr>
+<br><br>
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Thanks+For+Reading!&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
  
 
 
@@ -39,10 +46,7 @@ and my love for art is as true as Oct 31 == Dec 25 👀
 
 
 
-  - Instagram <img src="https://github.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/blob/main/assets/instagram.png" width="25px" height="25px">
-  - Twitter <img src="https://github.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/blob/main/assets/twitter.png" width="20px" height="20px">
-  - Email <img src="https://github.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/blob/main/assets/gmail.png" width="20px" height="15px">
-
+ 
 
 
 
