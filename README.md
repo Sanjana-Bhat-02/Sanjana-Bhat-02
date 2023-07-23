@@ -8,9 +8,9 @@ and my love for art is as true as  <br>
 
 ## 🌱 I’m currently learning ...
 💻 Frontend Development
-  - React <img src="https://github.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/blob/main/assets/react.png" width="20px" height="20px">
-  - SvelteKit <img src="https://github.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/blob/main/assets/svelte.png" width="20px" height="20px">
-  - Tailwind <img src="https://github.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/blob/main/assets/tailwind.png" width="27px" height="20px">
+  - React &nbsp;<img src="https://raw.githubusercontent.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/main/assets/react.svg" width="20px" height="20px">
+  - SvelteKit &nbsp; <img src="https://raw.githubusercontent.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/main/assets/svelte.svg" width="20px" height="20px">
+  - Tailwind &nbsp;<img src="https://raw.githubusercontent.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/main/assets/tailwindcss.svg" width="20px" height="20px">
   
 
 ## 🤔 I’m looking for help with ...
