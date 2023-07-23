@@ -31,8 +31,8 @@ and my love for art is as true as  <br>
   <a href="https://twitter.com/sanjana_bhat016">
    <img src="https://raw.githubusercontent.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/main/assets/twitter.svg" width="45px">
  </a> &nbsp;&nbsp;&nbsp;
-  <a href="mailto:asanjanabbhat@gmail.com">
-   <img src="https://raw.githubusercontent.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/main/assets/gmail.svg" width="45px">
+  <a href="https://www.linkedin.com/in/sanjana-bhat-881950178/">
+   <img src="https://raw.githubusercontent.com/A-Sanjana-B-Bhat/A-Sanjana-B-Bhat/main/assets/linkedin.svg" width="45px">
  </a>
 </div>
 <hr>
